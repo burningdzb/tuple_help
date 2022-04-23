@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tuple_help", "tuple_help\tuple_help.vcxproj", "{605C42CF-BB9C-47F8-962A-18BD62F6FFE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605C42CF-BB9C-47F8-962A-18BD62F6FFE5}.Debug|x64.ActiveCfg = Debug|x64
+		{605C42CF-BB9C-47F8-962A-18BD62F6FFE5}.Debug|x64.Build.0 = Debug|x64
+		{605C42CF-BB9C-47F8-962A-18BD62F6FFE5}.Debug|x86.ActiveCfg = Debug|Win32
+		{605C42CF-BB9C-47F8-962A-18BD62F6FFE5}.Debug|x86.Build.0 = Debug|Win32
+		{605C42CF-BB9C-47F8-962A-18BD62F6FFE5}.Release|x64.ActiveCfg = Release|x64
+		{605C42CF-BB9C-47F8-962A-18BD62F6FFE5}.Release|x64.Build.0 = Release|x64
+		{605C42CF-BB9C-47F8-962A-18BD62F6FFE5}.Release|x86.ActiveCfg = Release|Win32
+		{605C42CF-BB9C-47F8-962A-18BD62F6FFE5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A6E9021-E32C-4380-A51E-F287BF3E35F9}
+	EndGlobalSection
+EndGlobal
